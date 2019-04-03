@@ -1,0 +1,17 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mygreeting
+spec:
+  selector:
+    matchLabels:
+      app: mygreeting
+  replicas: 1
+  template: # template for the pods
+    metadata:
+      labels:
+        app: mygreeting
+    spec:
+      containers:
+      - name: mygreeting
+        image: tomvmac/mygreeting:1
