@@ -9,7 +9,7 @@ Spring Boot Stuff:
 
 Run spring boot app locally:
 cd into {project}\target folder
-java -jar mygreeting-0.0.1-SNAPSHOT
+java -jar myhello-0.0.1-SNAPSHOT
 
 ------------------------------------------------------------------------------------------------
 Docker Stuff
