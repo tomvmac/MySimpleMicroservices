@@ -18,7 +18,7 @@ public class GreetingController {
 			return "Mike is the best Bull ever and is the GOAT!";
 		}
 		if (yourNameLowerCase.equals("tom")){
-			return "Tom will find a job once he is done with microservices!";
+			return "Get that job at Fitbit dude!";
 		}
 		return "Thanks for visiting, peace out.";
 	}
