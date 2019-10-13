@@ -21,7 +21,7 @@ public class HelloController {
 
 	@GetMapping("/hello")
 	public String sayHello(){
-		return "Hello Tom!";
+		return "Hello Gitpod!";
 	}
 	
 	@GetMapping("/hello/name/{yourName}")
