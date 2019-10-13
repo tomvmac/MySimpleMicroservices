@@ -18,7 +18,10 @@ https://github.com/danielbryantuk/oreilly-docker-java-shopping
 
 https://stackoverflow.com/questions/31865442/how-to-set-default-environment-in-spring-boot
 https://vsupalov.com/docker-build-pass-environment-variables/
-https://stackoverflow.com/questions/54256980/kubernetes-pod-deployment-while-passing-args-to-container 
+https://stackoverflow.com/questions/54256980/kubernetes-pod-deployment-while-passing-args-to-container
 http://www.littlebigextra.com/use-spring-profiles-docker-containers/
+
+
+Add more stuff after github pwd changed.
 
 
